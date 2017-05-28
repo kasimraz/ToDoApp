@@ -1,0 +1,8 @@
+E:\KASIM\TODO\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.deps.json
+E:\KASIM\TODO\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.runtimeconfig.json
+E:\KASIM\TODO\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.runtimeconfig.dev.json
+E:\KASIM\TODO\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.dll
+E:\KASIM\TODO\ToDoApp\bin\Debug\netcoreapp1.1\ToDoApp.pdb
+E:\KASIM\TODO\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.AssemblyInfo.cs
+E:\KASIM\TODO\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.dll
+E:\KASIM\TODO\ToDoApp\obj\Debug\netcoreapp1.1\ToDoApp.pdb
